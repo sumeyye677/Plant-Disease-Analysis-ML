@@ -3,7 +3,6 @@
 An end-to-end machine learning project focused on **plant species classification** and **health status prediction** using physical and chemical plant data.  
 The project aims to support agricultural efficiency through data-driven analysis and automation.
 
----
 
 ## 🎯 Project Overview
 
