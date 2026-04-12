@@ -13,7 +13,6 @@ The application:
 - 🤖 Trains and compares multiple machine learning models
 - 📊 Uses data visualization to explore feature relationships
 
----
 
 ## 🚀 Features & Analysis Scope
 
@@ -29,7 +28,6 @@ The application:
 - 🎨 **Visual Reporting**  
   Analysis supported by heatmaps and distribution plots
 
----
 
 ## 🤖 Models and Evaluation Results
 
@@ -45,7 +43,6 @@ The following models were implemented and evaluated:
 All models were evaluated using Accuracy and F1-Score metrics.  
 The **MobileNet** model achieved the highest accuracy and overall performance.
 
----
 
 ## 🖼️ Screenshots
 
@@ -54,7 +51,6 @@ The **MobileNet** model achieved the highest accuracy and overall performance.
 <img width="968" height="687" alt="b" src="https://github.com/user-attachments/assets/70975833-7974-4689-8802-b44644b75916" />
 
 
----
 
 ## 🛠️ Technologies Used
 
@@ -66,7 +62,6 @@ The **MobileNet** model achieved the highest accuracy and overall performance.
 | 🤖 Machine Learning / Deep Learning | Scikit-learn, TensorFlow | Model training and evaluation |
 | 🧪 Environment | Jupyter Notebook | Interactive development and reporting |
 
----
 
 ## 📦 Project Structure
 
